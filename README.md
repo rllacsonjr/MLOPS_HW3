@@ -1,4 +1,4 @@
-# MLOps Project
+# MLOps HW3
 
 This project is designed to implement a machine learning operations (MLOps) pipeline that encompasses data processing, model training, and evaluation. The goal is to streamline the workflow from raw data to a deployed model.
 
