@@ -2,7 +2,7 @@
 
 This project is designed to implement a machine learning operations (MLOps) pipeline that encompasses data processing, model training, and evaluation. The goal is to streamline the workflow from raw data to a deployed model.
 
-## Project Structure
+## HW Structure
 
 - **data/**
   - **raw/**: Contains the raw data files used for training and evaluation.
@@ -48,11 +48,5 @@ This project is designed to implement a machine learning operations (MLOps) pipe
    ```
    bash scripts/run_pipeline.sh
    ```
-
-## Usage Guidelines
-
-- Ensure that the raw data is placed in the `data/raw` directory before running the pipeline.
-- Modify the model architecture in `src/models/model.py` as needed to suit your specific use case.
-- Review the evaluation metrics in `src/evaluation/evaluate.py` to assess model performance.
 
 This README provides a comprehensive overview of the MLOps project, guiding users through setup and usage.
